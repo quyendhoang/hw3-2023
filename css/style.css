@@ -6,13 +6,14 @@ body{
 
 header, nav{
     /* Set padding and margin */
-    padding: 8px 2px 3px 5px;
+    padding: 8px 20px 3px 15px;
     margin: 30px;
+    margin-left: 30px;
 
 }
 nav ul li{
     /* Set display, margin, padding, font-size, background-color */
-    display: inline;
+    display: inline-block;
     margin: 50px;
     padding: 15px;
     font-size: 30px;
@@ -120,6 +121,7 @@ p + p {
 p{
      /* Set margin */
      margin-bottom: 8px;
+     margin-left: 10px;
 }
 
 
@@ -127,5 +129,5 @@ p{
     /* Set margin, line-spacing, list styling  */
     margin: 0px 0px 5px 80px;
     line-height: normal; 
-    list-style-image: url("../../HW 3/images/sketchbook.png");
+    list-style-image: url("../images/sketchbook.png");
 }
