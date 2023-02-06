@@ -1,21 +1,20 @@
 body{
    /* Set line spacing */
-   line-height: 1.25;
+   line-height: 1.75;
 }
 
 
 header, nav{
     /* Set padding and margin */
-    padding: 8px 20px 3px 15px;
-    margin: 30px;
-    margin-left: 30px;
+    padding: 8px 15px 3px 30px;
+    margin-left: 100px;
 
 }
 nav ul li{
     /* Set display, margin, padding, font-size, background-color */
     display: inline-block;
     margin: 50px;
-    padding: 15px;
+    padding: 20px;
     font-size: 30px;
     background-color: bisque;
 
